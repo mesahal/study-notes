@@ -5,23 +5,36 @@
 | Database Fundamentals          | What is a Database?                                                                       |                       |
 |                                | DBMS vs RDBMS                                                                             |                       |
 |                                | Types of Databases: Relational, NoSQL, In-memory, Graph, Time-series                      |                       |
+|                                | Database vs Data Warehouse vs Data Lake                                                   |                       |
 |                                | Tables, Rows, Columns                                                                     |                       |
 |                                | Primary Key, Foreign Key, Candidate Key                                                   |                       |
+|                                | Composite Keys and Surrogate Keys                                                         |                       |
 |                                | ER Diagrams & Data Modeling Basics                                                        |                       |
+|                                | Entity Relationship Modeling – Entities, Attributes, Relationships                        |                       |
 |                                | Database Architecture: 1-tier, 2-tier, 3-tier                                             |                       |
 |                                | ACID vs BASE Concepts                                                                     |                       |
 |                                | Data Integrity (Entity, Referential, Domain, User-defined integrity)                      |                       |
 |                                | Transactions in DBMS – Concepts, Lifecycle                                                |                       |
 |                                | Relational Algebra & Relational Calculus Basics                                           |                       |
+|                                | Database Design Principles                                                                |                       |
 | SQL Basics                     | SQL Syntax Overview                                                                       |                       |
 |                                | DDL – CREATE, ALTER, DROP                                                                 |                       |
 |                                | DML – INSERT, UPDATE, DELETE                                                              |                       |
 |                                | DQL – SELECT, WHERE, ORDER BY, LIMIT                                                      |                       |
+|                                | DCL – GRANT, REVOKE, DENY                                                                 |                       |
+|                                | TCL – COMMIT, ROLLBACK, SAVEPOINT                                                         |                       |
 |                                | SQL Data Types – Numeric, String, Date/Time, Boolean                                      |                       |
+|                                | Numeric Data Types – INT, DECIMAL, FLOAT, DOUBLE                                          |                       |
+|                                | String Data Types – VARCHAR, CHAR, TEXT, BLOB                                             |                       |
+|                                | Date/Time Data Types – DATE, TIME, DATETIME, TIMESTAMP                                    |                       |
 |                                | Using Aliases and Expressions in Queries                                                  |                       |
 |                                | Basic Functions – String, Numeric, Date Functions                                         |                       |
+|                                | String Functions – CONCAT, SUBSTRING, LENGTH, UPPER, LOWER                                |                       |
+|                                | Numeric Functions – ROUND, CEIL, FLOOR, ABS, MOD                                          |                       |
+|                                | Date Functions – NOW, DATE, YEAR, MONTH, DAY                                              |                       |
 |                                | Set Operators – UNION, INTERSECT, EXCEPT                                                  |                       |
 |                                | Temporary Tables vs Table Variables                                                       |                       |
+|                                | SQL Query Execution Order                                                                 |                       |
 | SQL Intermediate               | Joins – INNER, LEFT, RIGHT, FULL JOIN                                                     |                       |
 |                                | Joins – CROSS JOIN, SELF JOIN, Semi & Anti Join                                           |                       |
 |                                | GROUP BY & HAVING                                                                         |                       |

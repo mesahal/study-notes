@@ -6,6 +6,10 @@
 |  | AI/ML Fundamentals for Backend Developers | |
 |  | Types of AI Models (LLMs, Computer Vision, NLP, Time Series) | |
 |  | AI Model Lifecycle Overview | |
+|  | AI vs ML vs Deep Learning vs Neural Networks | |
+|  | Supervised vs Unsupervised vs Reinforcement Learning | |
+|  | AI Model Training vs Inference | |
+|  | AI Model Deployment Strategies | |
 |  | Overview of OpenAI APIs (GPT, embeddings, chatbots) | |
 |  | OpenAI GPT-4 API Deep Dive | |
 |  | OpenAI Embeddings API Implementation | |

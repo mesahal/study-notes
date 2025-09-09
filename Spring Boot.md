@@ -3,8 +3,11 @@
 | Topic | Subtopic / Learning Item | Status (To Do / Done) |
 |-------|---------------------------|------------------------|
 | **Spring Boot Basics** | Introduction to Spring Framework & Spring Boot | |
+|  | Spring Boot vs Spring Framework vs Spring Cloud | |
 |  | Project Setup with Spring Initializr | |
 |  | Understanding pom.xml / Gradle build | |
+|  | Spring Boot Auto-configuration | |
+|  | Spring Boot Starter Dependencies | |
 |  | Dependency Injection in Spring | |
 |  | DI Exceptions (UnsatisfiedDependencyException, NoSuchBeanDefinitionException) | |
 |  | Spring Boot Annotations Overview (@RestController, @Service, @Repository, @Primary, etc.) | |

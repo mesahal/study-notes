@@ -5,6 +5,8 @@
 | **Microservices Fundamentals** | What is Microservices Architecture | |
 |  | Monolith vs Microservices Comparison | |
 |  | Benefits & Challenges of Microservices | |
+|  | When to Use Microservices vs Monolith | |
+|  | Microservices Anti-patterns | |
 |  | Service Boundaries & Domain-Driven Design (DDD) | |
 |  | Hexagonal (Ports & Adapters) Architecture | |
 |  | Decomposition Strategies – Business Capability, Subdomain | |

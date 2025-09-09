@@ -3,9 +3,12 @@
 | Topic | Subtopic / Learning Item | Status (To Do / Done) |
 |-------|---------------------------|------------------------|
 | **Linux Basics** | Understanding Linux OS | |
+|  | Linux Distributions – Ubuntu, CentOS, RHEL, Debian | |
 |  | Understanding Command Line | |
+|  | Terminal vs Shell vs Bash | |
 |  | File system structure & navigation | |
 |  | Understanding File System Deep Dive | |
+|  | Linux Directory Structure – /bin, /etc, /var, /home | |
 |  | File permissions & ownership (chmod, chown, umask) | |
 |  | Package management (apt, yum, rpm) | |
 |  | Package Management Basics | |

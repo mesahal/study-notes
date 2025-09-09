@@ -5,6 +5,8 @@
 | **System Design Fundamentals** | What is System Design & Importance | |
 |  | High-Level Design vs Low-Level Design | |
 |  | Components of a System: Client, Server, Database, Cache, Load Balancer | |
+|  | System Design Interview Process | |
+|  | System Design Documentation | |
 |  | Understanding Functional Requirements (Performance, Scalability, Reliability, Security) | |
 |  | Understanding Non-Functional Requirements (Latency, Throughput, Availability, Fault Tolerance) | |
 |  | Trade-offs in System Design (Consistency vs Availability vs Partition Tolerance) | |

@@ -5,6 +5,8 @@
 | **DevOps Fundamentals** | What is DevOps & Its Importance | |
 |  | DevOps Culture & Principles | |
 |  | CI/CD Overview | |
+|  | DevOps vs DevSecOps | |
+|  | DevOps Maturity Model | |
 |  | Agile vs DevOps | |
 |  | DevOps vs Traditional SDLC | |
 |  | Infrastructure as Code (IaC) Basics | |

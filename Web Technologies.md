@@ -2,10 +2,13 @@
 
 | Topic | Subtopic / Learning Item | Status (To Do / Done) |
 |-------|---------------------------|------------------------|
-| **Web Fundamentals & Networking** | Servlet API & Lifecycle | |
+| **Web Fundamentals & Networking** | Web Application Architecture Overview | |
+|  | Client-Server Model in Web Applications | |
+|  | Servlet API & Lifecycle | |
 |  | Servlet Filters & Listeners | |
 |  | Servlet Context & Request Dispatching | |
 |  | Thread per Request vs Event Loop Architecture | |
+|  | Web Application Deployment Models | |
 |  | Apache Tomcat Installation & Configuration (JAR/WAR) | |
 |  | Web Server Security: SSL – TLS – Keystores – Truststores | |
 |  | Keystore vs Truststore Configuration Deep Dive | |

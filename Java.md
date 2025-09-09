@@ -6,24 +6,45 @@
 |  | Installing JDK, Setting Environment Variables, Configuring IDE (IntelliJ/Eclipse/VS Code) | |
 |  | Writing and Running First Java Program (Hello World) | |
 |  | Java Program Structure (package, class, main method, syntax rules) | |
-|  | Java Compilation Process (source → bytecode → execution) (added) | |
-|  | JDK Tools – javac, java, jar, javadoc (added) | |
+|  | Java Compilation Process (source → bytecode → execution) | |
+|  | JDK Tools – javac, java, jar, javadoc | |
 |  | Data Types (Primitive & Non-Primitive) | |
+|  | Primitive Data Types – byte, short, int, long, float, double, char, boolean | |
+|  | Non-Primitive Data Types – String, Arrays, Classes, Interfaces | |
 |  | Variables (Local, Instance, Static) | |
+|  | Variable Scope and Lifetime | |
 |  | Type Casting (Widening vs Narrowing) | |
+|  | Implicit vs Explicit Type Casting | |
 |  | Operators – Arithmetic & Relational | |
 |  | Operators – Logical & Bitwise | |
 |  | Operators – Assignment & Unary | |
+|  | Operator Precedence and Associativity | |
 |  | Input and Output in Java (Scanner, BufferedReader, System.in/out) | |
+|  | Console Input/Output Methods | |
+|  | File Input/Output Basics | |
 |  | Java Naming Conventions (Packages, Classes, Methods, Variables, Constants) | |
-|  | Java Coding Standards & Best Practices (added) | |
+|  | Java Coding Standards & Best Practices | |
+|  | Code Documentation with JavaDoc | |
 | Control Flow | If-else statements (nested if, else-if ladder) | |
 |  | Switch-case (with enums, strings, fall-through concept) | |
-|  | Switch Expressions (Java 12+) (added) | |
+|  | Switch Expressions (Java 12+) | |
 |  | Loops – for, while, do-while | |
+|  | For Loop Variations – Traditional, Enhanced, Nested | |
+|  | While vs Do-While Loop Differences | |
 |  | Break and Continue (use cases, labeled break) | |
 |  | Enhanced for-loop (iterating arrays & collections) | |
-|  | Pattern Matching for instanceof (Java 16+) (added) | |
+|  | Pattern Matching for instanceof (Java 16+) | |
+|  | Control Flow Best Practices | |
+| Arrays & Strings | Arrays – Declaration, Initialization, Accessing Elements | |
+|  | Array Operations – Copying, Searching, Sorting | |
+|  | Multi-dimensional Arrays | |
+|  | String Class – Immutability, String Pool | |
+|  | String Methods – length, charAt, substring, indexOf, replace | |
+|  | String Comparison – equals vs ==, compareTo | |
+|  | StringBuilder vs StringBuffer | |
+|  | String Formatting – printf, format, String.format | |
+|  | Regular Expressions in Java | |
+|  | Arrays and Strings Best Practices | |
 | OOP Fundamentals | What is OOP & Why it is needed | |
 |  | Encapsulation – Concept & Benefits | |
 |  | Encapsulation – Writing Getters/Setters in Java | |

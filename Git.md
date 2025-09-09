@@ -3,8 +3,11 @@
 | Topic | Subtopic / Learning Item | Status (To Do / Done) |
 |-------|---------------------------|------------------------|
 | **Git Concepts** | What is Git? Version Control Fundamentals | |
+|  | Git vs SVN vs Mercurial Comparison | |
+|  | Git Repository Structure | |
 |  | Branching strategies (Git Flow, Trunk Based) | |
 |  | Git Branching Strategies Deep Dive | |
+|  | Git Workflow Best Practices | |
 |  | Merge vs Rebase | |
 |  | Git Merging and Rebase | |
 |  | Conflict resolution | |
