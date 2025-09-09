@@ -111,7 +111,8 @@
 |  | Configuration Drift Detection | |
 |  | Immutable Infrastructure vs Mutable | |
 | **Virtualization & Containers** | Virtual Machines vs Containers | |
-|  | Docker Basics – Images, Containers, Volumes, Networks | |
+|  | Docker Images & Containers | |
+|  | Docker Volumes & Networks | |
 |  | Docker Image Optimization | |
 |  | Multi-stage Docker Builds | |
 |  | Docker Security Best Practices | |
@@ -129,9 +130,10 @@
 | **Kubernetes Basics** | Kubernetes Architecture – Master, Nodes, API Server, Scheduler | |
 |  | Kubernetes Components Deep Dive | |
 |  | etcd Cluster Management | |
-|  | Pods, ReplicaSets, Deployments, StatefulSets | |
+|  | Kubernetes Pods & ReplicaSets | |
+|  | Kubernetes Deployments & StatefulSets | |
 |  | Pod Lifecycle & Init Containers | |
-|  | Services – ClusterIP, NodePort, LoadBalancer | |
+|  | Kubernetes Services – ClusterIP, NodePort, LoadBalancer | |
 |  | Kubernetes Service Discovery | |
 |  | ConfigMaps & Secrets Management | |
 |  | External Secrets Operator | |

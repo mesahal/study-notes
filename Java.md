@@ -71,38 +71,45 @@
 |  | OOP Design Principles – Interface Segregation & Dependency Inversion | |
 |  | Coupling & Cohesion | |
 | JVM Internals | JVM Architecture Overview | |
+|  | JVM Memory Areas – Heap, Stack, Metaspace | |
+|  | JVM Memory Areas – Code Cache, Native Memory | |
 |  | Class Loaders – Bootstrap, Extension, Application | |
-|  | JVM Memory Areas – Heap, Stack, Metaspace, Code Cache, Native Memory | |
 |  | JVM Execution Engine & Bytecode Interpreter | |
 |  | JIT Compiler Basics (C1, C2 compilers) | |
-|  | JVM Garbage Collection Overview | |
-|  | Class File Structure Basics (added) | |
-|  | Java Native Interface (JNI) Basics (added) | |
+|  | Class File Structure Basics | |
+|  | Java Native Interface (JNI) Basics | |
 | Advanced Java | Exception Handling – try, catch, finally | |
 |  | Exception Handling – Checked vs Unchecked Exceptions | |
 |  | Custom Exceptions | |
 |  | throw vs throws (breakdown) | |
 |  | Try-with-resources & AutoCloseable (breakdown) | |
 |  | Exception Best Practices (breakdown) | |
-|  | Java Collections – List (ArrayList, LinkedList) | |
-|  | Java Collections – Set (HashSet, LinkedHashSet, TreeSet) | |
-|  | Java Collections – Map (HashMap, LinkedHashMap, TreeMap, ConcurrentHashMap) | |
-|  | ArrayList vs LinkedList performance (breakdown) | |
-|  | HashMap Internal Working (breakdown) | |
-|  | ConcurrentHashMap Internal Working (breakdown) | |
-|  | Fail-fast vs Fail-safe Iterators (breakdown) | |
+|  | Java Collections – ArrayList Implementation & Usage | |
+|  | Java Collections – LinkedList Implementation & Usage | |
+|  | Java Collections – ArrayList vs LinkedList Performance | |
+|  | Java Collections – HashSet Implementation & Usage | |
+|  | Java Collections – LinkedHashSet vs HashSet | |
+|  | Java Collections – TreeSet Implementation & Usage | |
+|  | Java Collections – HashMap Implementation & Usage | |
+|  | Java Collections – LinkedHashMap vs TreeMap | |
+|  | Java Collections – ConcurrentHashMap Implementation | |
+|  | Fail-fast vs Fail-safe Iterators | |
 |  | Generics in Java (Type Parameters, Generic Methods) | |
 |  | Generics – Bounded Types & Wildcards (added) | |
 |  | Generics – Type Erasure Deep Dive (added) | |
 |  | PECS Principle (Producer Extends, Consumer Super) (added) | |
-|  | Streams API – Introduction, Intermediate Ops (map, filter, sorted) | |
-|  | Streams API – Terminal Ops (collect, reduce, forEach) | |
-|  | Parallel Streams (added) | |
-|  | Streams API – Custom Collectors (breakdown) | |
-|  | Lambda Expressions – Syntax, Scope, Capturing Variables | |
-|  | Lambda Expressions – Method References (added) | |
-|  | Functional Interfaces – Predicate, Function, Supplier, Consumer | |
-|  | Multithreading Basics (Creating Threads, Runnable vs Thread) | |
+|  | Streams API – Introduction & Basics | |
+|  | Streams API – Intermediate Operations (map, filter, sorted) | |
+|  | Streams API – Terminal Operations (collect, reduce, forEach) | |
+|  | Streams API – Parallel Streams | |
+|  | Streams API – Custom Collectors | |
+|  | Lambda Expressions – Syntax & Basics | |
+|  | Lambda Expressions – Scope & Capturing Variables | |
+|  | Lambda Expressions – Method References | |
+|  | Functional Interfaces – Predicate & Function | |
+|  | Functional Interfaces – Supplier & Consumer | |
+|  | Multithreading – Thread Creation & Lifecycle | |
+|  | Multithreading – Runnable vs Thread | |
 |  | Synchronization – synchronized keyword, locks, monitors | |
 |  | Executor Framework – Thread Pools, Future, Callable | |
 |  | Java 8 Date and Time API (LocalDate, LocalDateTime, Instant, ZonedDateTime) (added) | |
@@ -182,9 +189,17 @@
 |  | TDD & BDD – JUnit + Cucumber (added) | |
 |  | Mutation Testing – Pitest (added) | |
 |  | Code Coverage Tools – Jacoco (added) | |
-|  | SOLID Principles & Design Patterns (Singleton, Factory, Observer, Strategy, Builder, Proxy etc.) | |
-|  | Design Patterns – Creational (breakdown) | |
-|  | Design Patterns – Structural (breakdown) | |
-|  | Design Patterns – Behavioral (breakdown) | |
+|  | SOLID Principles – Single Responsibility Principle | |
+|  | SOLID Principles – Open/Closed & Liskov Substitution | |
+|  | SOLID Principles – Interface Segregation & Dependency Inversion | |
+|  | Design Patterns – Creational: Singleton Pattern | |
+|  | Design Patterns – Creational: Factory Pattern | |
+|  | Design Patterns – Creational: Builder Pattern | |
+|  | Design Patterns – Structural: Adapter Pattern | |
+|  | Design Patterns – Structural: Decorator Pattern | |
+|  | Design Patterns – Structural: Proxy Pattern | |
+|  | Design Patterns – Behavioral: Observer Pattern | |
+|  | Design Patterns – Behavioral: Strategy Pattern | |
+|  | Design Patterns – Behavioral: Command Pattern | |
 |  | Best Practices for Large-Scale Java Applications (Logging, Exception Handling, Packaging, Modularization) | |
 |  | Error Handling Best Practices (added) | |

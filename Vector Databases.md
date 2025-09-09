@@ -4,6 +4,7 @@
 |-------|---------------------------|------------------------|
 | **Vector Databases** | What is a Vector Database & Use Cases | |
 |  | Vector Database vs Traditional Database | |
+|  | Vector Database Architecture | |
 |  | Embedding Generation Strategies | |
 |  | Introduction to Pinecone | |
 |  | Pinecone Index Management | |

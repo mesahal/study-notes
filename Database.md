@@ -66,18 +66,20 @@
 |                                | Advanced Indexing – Covering Index, Filtered Index, Expression Index                      |                       |
 | ORM & Hibernate / JPA          | ORM Concept & Benefits                                                                    |                       |
 |                                | JPA & Hibernate Overview                                                                  |                       |
+|                                | JPA Entity Mapping Basics                                                                 |                       |
+|                                | JPA Entity Lifecycle Management                                                           |                       |
 |                                | EntityManager vs EntityManagerFactory                                                     |                       |
 |                                | Entity Mapping – @Entity, @Table, @Id, @Embeddable, @GeneratedValue                       |                       |
 |                                | JPA Entity Lifecycle (Transient, Managed, Detached, Removed)                              |                       |
-|                                | Relationships – @OneToOne, @OneToMany, @ManyToMany, @ManyToOne                            |                       |
-|                                | Cascade Types – ALL, PERSIST, MERGE, REMOVE, REFRESH, DETACH                              |                       |
-|                                | Lazy vs Eager Fetching                                                                    |                       |
-|                                | Dirty Checking in Hibernate                                                               |                       |
-|                                | Flush Modes – AUTO, COMMIT, MANUAL                                                        |                       |
+|                                | JPA Relationships – @OneToOne, @OneToMany, @ManyToMany, @ManyToOne                        |                       |
+|                                | JPA Cascade Types – ALL, PERSIST, MERGE, REMOVE, REFRESH, DETACH                          |                       |
+|                                | JPA Fetching Strategies – Lazy vs Eager                                                   |                       |
+|                                | Hibernate Dirty Checking                                                                  |                       |
+|                                | Hibernate Flush Modes – AUTO, COMMIT, MANUAL                                              |                       |
 |                                | JPQL – Basic Queries, Named Queries                                                       |                       |
-|                                | Criteria API – Joins, Subqueries, Predicates                                              |                       |
+|                                | JPA Criteria API – Joins, Subqueries, Predicates                                          |                       |
 |                                | Spring Data JPA Specifications (Dynamic Queries)                                          |                       |
-|                                | Projections – DTO vs Interface Projections                                                |                       |
+|                                | JPA Projections – DTO vs Interface Projections                                            |                       |
 |                                | Hibernate Caching – First Level, Second Level, Query Cache                                |                       |
 |                                | Hibernate Caching – Integration with Ehcache/Redis                                        |                       |
 |                                | Transactions in Hibernate – Programmatic                                                  |                       |
@@ -125,7 +127,7 @@
 |                                | Data Archiving Strategies (Cold Storage, Historical Tables)                               |                       |
 | NoSQL Databases                | NoSQL Overview & CAP Theorem                                                              |                       |
 |                                | Types of NoSQL – Key-Value, Document, Column, Graph                                       |                       |
-|                                | MongoDB Basics – CRUD                                                                     |                       |
+|                                | MongoDB Basics – CRUD Operations                                                          |                       |
 |                                | MongoDB Schema Design Principles                                                          |                       |
 |                                | MongoDB Aggregation Framework Basics                                                      |                       |
 |                                | MongoDB Aggregation Framework – $lookup, $unwind, $group, $project                        |                       |

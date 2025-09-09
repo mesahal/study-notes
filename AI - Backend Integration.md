@@ -27,10 +27,12 @@
 |  | HuggingFace Spaces Deployment | |
 |  | Custom Model Upload to HuggingFace | |
 |  | LangChain Basics: Chains | |
+|  | LangChain Chain Types & Usage | |
 |  | LangChain Basics: Prompts | |
 |  | LangChain Prompt Templates | |
 |  | LangChain Few-Shot Prompting | |
 |  | LangChain Basics: Agents | |
+|  | LangChain Agent Types & Usage | |
 |  | LangChain Tools & Tool Calling | |
 |  | LangChain Memory Management | |
 |  | LangChain Document Loaders | |

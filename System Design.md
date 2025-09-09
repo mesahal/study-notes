@@ -52,7 +52,8 @@
 |  | Stream Processing Basics (Apache Flink, Spark Streaming) | |
 | **Microservices Design Patterns** | API Gateway Pattern | |
 |  | Service Registry & Discovery (Eureka, Consul) | |
-|  | Circuit Breaker, Retry, Bulkhead Patterns | |
+|  | Circuit Breaker Pattern | |
+|  | Retry & Bulkhead Patterns | |
 |  | Saga Pattern for Distributed Transactions | |
 |  | Idempotency & Data Consistency | |
 |  | Versioning of APIs | |
@@ -79,13 +80,21 @@
 |  | Performance Profiling & Bottleneck Detection | |
 |  | Dashboarding & Visualization (Grafana, Kibana) | |
 | **Real-World System Design Case Studies** | Designing a URL Shortener | |
+|  | URL Shortener – Database Design & Scaling | |
 |  | Designing a Social Media Feed | |
+|  | Social Media Feed – Timeline & Recommendation | |
 |  | Designing a Messaging System (WhatsApp/Slack) | |
+|  | Messaging System – Real-time & Persistence | |
 |  | Designing an E-Commerce Platform | |
+|  | E-Commerce Platform – Inventory & Payment | |
 |  | Designing a Video Streaming Service | |
+|  | Video Streaming – CDN & Encoding | |
 |  | Designing a Real-Time Analytics Platform | |
+|  | Real-Time Analytics – Data Pipeline | |
 |  | Designing a Ride-Sharing App (Uber, Lyft) | |
+|  | Ride-Sharing – Matching & Tracking | |
 |  | Designing Online Payment Systems (PayPal, Stripe) | |
+|  | Payment Systems – Security & Compliance | |
 | **Distributed Systems Fundamentals** | Definition & Characteristics of Distributed Systems | |
 |  | Monolithic vs Distributed Systems | |
 |  | Key Challenges: Latency, Partial Failure, Concurrency, Data Consistency | |
