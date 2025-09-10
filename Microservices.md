@@ -1,5 +1,7 @@
 # Microservices Learning Sheet
 
+## 🟢 BEGINNER LEVEL
+
 | Topic | Subtopic / Learning Item | Status (To Do / Done) |
 |-------|---------------------------|------------------------|
 | **Microservices Fundamentals** | What is Microservices Architecture | |
@@ -28,6 +30,11 @@
 |  | Event-Driven Architecture – Publish-Subscribe, Event Sourcing | |
 |  | gRPC & Protobuf Basics | |
 |  | WebSockets in Microservices | |
+
+## 🟡 INTERMEDIATE LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 | **Data Management in Microservices** | Database per Service Pattern | |
 |  | Shared Database Anti-Pattern | |
 |  | Distributed Transactions – SAGA Pattern, Two-Phase Commit | |
@@ -53,6 +60,11 @@
 |  | Inter-Service Communication – Synchronous vs Asynchronous | |
 |  | API Gateway Pattern | |
 |  | Service Discovery & Registry – Eureka, Consul | |
+
+## 🔴 ADVANCED LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 | **Microservices Patterns** | Circuit Breaker, Retry, Bulkhead Patterns | |
 |  | Retry vs Fallback vs Timeout (breakdown) | |
 |  | Saga Pattern & Distributed Transactions | |

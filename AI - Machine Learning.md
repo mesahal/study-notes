@@ -1,5 +1,7 @@
 # AI - Machine Learning Learning Sheet
 
+## 🟢 BEGINNER LEVEL
+
 | Topic | Subtopic / Learning Item | Status (To Do / Done) |
 |-------|---------------------------|------------------------|
 | **AI Model Training & Fine-tuning** | Transfer Learning Concepts | |
@@ -9,6 +11,11 @@
 |  | Model Evaluation Metrics | |
 |  | Cross-validation for ML Models | |
 |  | Overfitting Prevention Techniques | |
+
+## 🟡 INTERMEDIATE LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 | **MLOps & Model Management** | ML Pipeline Orchestration | |
 |  | Data Versioning with DVC | |
 |  | Experiment Tracking with MLflow | |
@@ -16,6 +23,11 @@
 |  | Feature Store Implementation | |
 |  | Data Lineage Tracking | |
 |  | Model Governance & Compliance | |
+
+## 🔴 ADVANCED LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 | **AI Ethics & Responsible AI** | Bias Detection in AI Models | |
 |  | Fairness Metrics Implementation | |
 |  | Explainable AI (XAI) Integration | |

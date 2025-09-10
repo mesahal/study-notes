@@ -1,5 +1,7 @@
 # Web Technologies Learning Sheet
 
+## 🟢 BEGINNER LEVEL
+
 | Topic | Subtopic / Learning Item | Status (To Do / Done) |
 |-------|---------------------------|------------------------|
 | **Web Fundamentals & Networking** | Web Application Architecture Overview | |
@@ -64,6 +66,11 @@
 |  | HTTP Keep-Alive & Multiplexing | |
 |  | HTTP Streaming: Transfer Encoding Chunked | |
 |  | URL vs URI & URL Encoding | |
+
+## 🟡 INTERMEDIATE LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 |  | REST API Fundamentals & Best Practices | |
 |  | Writing RESTful APIs | |
 |  | CORS (Cross-Origin Resource Sharing) Deep Dive | |
@@ -90,6 +97,11 @@
 |  | Kafka Advanced: Partitions – Consumer Groups – Offsets | |
 |  | → Kafka Rebalance Protocol | |
 |  | → Kafka Exactly-once Semantics | |
+
+## 🔴 ADVANCED LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 |  | Event-Driven Architecture Design Patterns | |
 |  | API Gateways (Kong, Zuul, Spring Cloud Gateway) | |
 | **Security in System Design** | Web Security Headers: CSP – HSTS | |

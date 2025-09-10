@@ -1,5 +1,7 @@
 # Vector Databases Learning Sheet
 
+## 🟢 BEGINNER LEVEL
+
 | Topic | Subtopic / Learning Item | Status (To Do / Done) |
 |-------|---------------------------|------------------------|
 | **Vector Databases** | What is a Vector Database & Use Cases | |
@@ -23,6 +25,11 @@
 |  | pgvector Installation & Configuration | |
 |  | PostgreSQL Vector Indexing | |
 |  | pgvector Performance Optimization | |
+
+## 🟡 INTERMEDIATE LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 |  | Storing Embeddings in Vector Database | |
 |  | Embedding Dimension Optimization | |
 |  | Batch Embedding Upload | |
@@ -46,6 +53,11 @@
 |  | Vector Database Client Configuration | |
 |  | Spring Boot Vector Repository Pattern | |
 |  | Async Vector Operations | |
+
+## 🔴 ADVANCED LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 |  | Scaling Vector Databases | |
 |  | Vector Database Sharding | |
 |  | Replication Strategies | |

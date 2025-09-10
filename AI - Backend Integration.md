@@ -1,5 +1,7 @@
 # AI + Backend Integration Learning Sheet
 
+## 🟢 BEGINNER LEVEL
+
 | Topic | Subtopic / Learning Item | Status (To Do / Done) |
 |-------|---------------------------|------------------------|
 | **AI + Backend Integration** | Introduction to AI Integration in Backend | |
@@ -10,7 +12,12 @@
 |  | Supervised vs Unsupervised vs Reinforcement Learning | |
 |  | AI Model Training vs Inference | |
 |  | AI Model Deployment Strategies | |
-|  | Overview of OpenAI APIs (GPT, embeddings, chatbots) | |
+
+## 🟡 INTERMEDIATE LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
+| **AI API Integrations** | Overview of OpenAI APIs (GPT, embeddings, chatbots) | |
 |  | OpenAI GPT-4 API Deep Dive | |
 |  | OpenAI Embeddings API Implementation | |
 |  | OpenAI DALL-E API Integration | |
@@ -26,7 +33,7 @@
 |  | HuggingFace Inference Endpoints | |
 |  | HuggingFace Spaces Deployment | |
 |  | Custom Model Upload to HuggingFace | |
-|  | LangChain Basics: Chains | |
+| **LangChain Framework** | LangChain Basics: Chains | |
 |  | LangChain Chain Types & Usage | |
 |  | LangChain Basics: Prompts | |
 |  | LangChain Prompt Templates | |
@@ -152,6 +159,11 @@
 |  | Error Classification & Analysis | |
 |  | Prediction Audit Trails | |
 |  | CI/CD for AI Models: Retraining, Deployment, Rollout | |
+
+## 🔴 ADVANCED LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 |  | MLOps Pipeline Setup | |
 |  | Automated Model Training | |
 |  | Model Validation & Testing | |

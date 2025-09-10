@@ -1,5 +1,7 @@
 # DevOps Learning Sheet
 
+## 🟢 BEGINNER LEVEL
+
 | Topic | Subtopic / Learning Item | Status (To Do / Done) |
 |-------|---------------------------|------------------------|
 | **DevOps Fundamentals** | What is DevOps & Its Importance | |
@@ -77,6 +79,11 @@
 |  | Feature Flags & Dark Launches | |
 |  | Progressive Delivery Techniques | |
 |  | Deployment Validation & Smoke Tests | |
+
+## 🟡 INTERMEDIATE LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 | **Cloud Computing Fundamentals** | What is Cloud Computing & Its Benefits | |
 |  | Cloud Service Models – IaaS, PaaS, SaaS, FaaS | |
 |  | Deployment Models – Public, Private, Hybrid, Multi-Cloud | |
@@ -147,6 +154,11 @@
 |  | Kubernetes CLI (kubectl) & Dashboard | |
 |  | kubectl Advanced Commands | |
 |  | Kubernetes Context & Configuration | |
+
+## 🔴 ADVANCED LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 | **Kubernetes Advanced Concepts** | Horizontal Pod Autoscaler & Scaling Policies | |
 |  | Vertical Pod Autoscaler (VPA) | |
 |  | Cluster Autoscaler | |

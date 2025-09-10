@@ -1,5 +1,7 @@
 # Git Learning Sheet
 
+## 🟢 BEGINNER LEVEL
+
 | Topic | Subtopic / Learning Item | Status (To Do / Done) |
 |-------|---------------------------|------------------------|
 | **Git Concepts** | What is Git? Version Control Fundamentals | |
@@ -18,6 +20,11 @@
 |  | Git Tag Deep Dive | |
 |  | Git Stash Management | |
 |  | Resetting HEAD (soft, mixed, hard) | |
+
+## 🟡 INTERMEDIATE LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 |  | Git HEAD Reset Types | |
 |  | Different Git Commands Overview | |
 |  | Git Hooks (pre-commit, pre-push) | |
@@ -25,6 +32,11 @@
 |  | Git Submodules | |
 |  | Git Worktrees | |
 |  | Git Reflog & Recovery from Mistakes | |
+
+## 🔴 ADVANCED LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 |  | Git Large File Storage (LFS) | |
 |  | Git Best Practices for Teams | |
 |  | Git Internals (objects, trees, commits, refs) | |

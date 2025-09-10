@@ -1,5 +1,7 @@
 # System Design Fundamentals Learning Sheet
 
+## 🟢 BEGINNER LEVEL
+
 | Topic | Subtopic / Learning Item | Status (To Do / Done) |
 |-------|--------------------------|----------------------|
 | **System Design Fundamentals** | What is System Design & Importance | |
@@ -19,6 +21,11 @@
 |  | SLA, SLO, SLI Definitions | |
 |  | Estimating Concurrency & User Behavior Models | |
 |  | Back-of-the-Envelope Calculations (Quick Estimations) | |
+
+## 🟡 INTERMEDIATE LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|--------------------------|----------------------|
 | **Scalability & Load Handling** | Vertical vs Horizontal Scaling | |
 |  | Database Sharding & Partitioning | |
 |  | Data Replication Strategies: Master-Slave, Multi-Master, Leaderless | |
@@ -95,6 +102,11 @@
 |  | Ride-Sharing – Matching & Tracking | |
 |  | Designing Online Payment Systems (PayPal, Stripe) | |
 |  | Payment Systems – Security & Compliance | |
+
+## 🔴 ADVANCED LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|--------------------------|----------------------|
 | **Distributed Systems Fundamentals** | Definition & Characteristics of Distributed Systems | |
 |  | Monolithic vs Distributed Systems | |
 |  | Key Challenges: Latency, Partial Failure, Concurrency, Data Consistency | |

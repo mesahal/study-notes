@@ -1,5 +1,7 @@
 # Linux Learning Sheet
 
+## 🟢 BEGINNER LEVEL
+
 | Topic | Subtopic / Learning Item | Status (To Do / Done) |
 |-------|---------------------------|------------------------|
 | **Linux Basics** | Understanding Linux OS | |
@@ -22,6 +24,11 @@
 |  | Shell scripting basics | |
 |  | Shell Scripting Introduction | |
 |  | Environment variables & profiles | |
+
+## 🟡 INTERMEDIATE LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 |  | SSH for remote access | |
 |  | SSH - Accessing Remote Server | |
 |  | VPN basics | |
@@ -32,6 +39,11 @@
 |  | User & Group management | |
 |  | Crontab & Scheduling Jobs | |
 |  | Basic Networking Commands (netstat, ss, curl, nc, ping) | |
+
+## 🔴 ADVANCED LEVEL
+
+| Topic | Subtopic / Learning Item | Status (To Do / Done) |
+|-------|---------------------------|------------------------|
 |  | Linux File Descriptors & ulimit | |
 |  | Linux Signals (SIGKILL, SIGTERM, SIGINT, SIGHUP) | |
 |  | Process Monitoring Tools (strace, ltrace) | |
