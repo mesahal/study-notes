@@ -4,9 +4,9 @@
 
 | Topic | Subtopic / Learning Item | Status (To Do / Done) |
 |-------|---------------------------|------------------------|
-| **DevOps Fundamentals** | What is DevOps & Its Importance | |
-|  | DevOps Culture & Principles | |
-|  | CI/CD Overview | |
+| **DevOps Fundamentals** | What is DevOps & Its Importance | [Done](DevOps/Note.md#what-is-devops--its-importance) |
+|  | DevOps Culture & Principles | [Done](DevOps/Note.md#devops-culture--principles) |
+|  | CI/CD Overview | [Done](DevOps/Note.md#cicd-overview) |
 |  | DevOps vs DevSecOps | |
 |  | DevOps Maturity Model | |
 |  | Agile vs DevOps | |
@@ -68,8 +68,8 @@
 |  | Deployment Patterns – Rolling, Blue-Green, Canary | |
 |  | A/B Testing in Deployment | |
 |  | Zero-Downtime Deployment Strategies | |
-|  | Dockerizing Applications for CD | |
-|  | Deploying Microservices to Kubernetes / Cloud | |
+|  | Dockerizing Applications for CD | [Todo](DevOps/Note.md#benefits-deployment) |
+|  | Deploying Microservices to Kubernetes / Cloud | [Todo](DevOps/Note.md#challenges-with-virtual-machines-in-microservices) |
 |  | ArgoCD for GitOps | |
 |  | Flux for GitOps | |
 |  | Spinnaker for Multi-Cloud CD | |
@@ -117,21 +117,21 @@
 |  | Salt (SaltStack) Basics | |
 |  | Configuration Drift Detection | |
 |  | Immutable Infrastructure vs Mutable | |
-| **Virtualization & Containers** | Virtual Machines vs Containers | |
-|  | Docker Images & Containers | |
+| **Virtualization & Containers** | Virtual Machines vs Containers | [Todo](DevOps/Note.md#virtual-machines-vs-containers-key-differences-and-benefits) |
+|  | Docker Images & Containers | [Todo](DevOps/Note.md#container-image-vs-container) |
 |  | Docker Volumes & Networks | |
 |  | Docker Image Optimization | |
 |  | Multi-stage Docker Builds | |
 |  | Docker Security Best Practices | |
-|  | Docker Networking Deep Dive | |
+|  | Docker Networking Deep Dive | [Todo](DevOps/Note.md#how-containers-work-internally) |
 |  | Docker Storage & Volume Management | |
 |  | Docker Compose for Multi-Container Applications | |
 |  | Docker Swarm Orchestration | |
-|  | Container Lifecycle & Commands | |
-|  | Benefits of Containerization | |
+|  | Container Lifecycle & Commands | [Todo](DevOps/Note.md#docker-workflow) |
+|  | Benefits of Containerization | [Todo](DevOps/Note.md#key-benefits-of-containers-over-vms) |
 |  | Container Networking & Storage | |
 |  | Image Optimization & Best Practices | |
-|  | Container Registry Management | |
+|  | Container Registry Management | [Todo](DevOps/Note.md#container-repository-registry) |
 |  | Container Scanning & Vulnerability Assessment | |
 |  | Buildah & Podman Alternatives | |
 | **Kubernetes Basics** | Kubernetes Architecture – Master, Nodes, API Server, Scheduler | |
